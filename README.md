@@ -16,9 +16,9 @@
   
 - Create a directory for the script and navigate to it.
 
-      mkdir ip-blocking-script
+      mkdir ipblocking
 
-      cd ip-blocking-script
+      cd ipblocking
 
 - Create a Python virtual environment (optional but recommended).
 
